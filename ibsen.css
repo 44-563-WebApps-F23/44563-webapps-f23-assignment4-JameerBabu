@@ -1,0 +1,30 @@
+.speech{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color : black;
+}
+
+.direction{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color : black;
+    background-color: lightcoral;
+
+}
+
+.name {
+    
+}
+
+.direction:hover {
+    background-color: blue;
+    color:aquamarine;
+}
+
+.HILDA{
+    color :azure;
+}
+
+.SOLNESS{
+    color :blanchedalmond;
+}
