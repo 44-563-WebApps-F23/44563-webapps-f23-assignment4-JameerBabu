@@ -17,8 +17,9 @@
 .name:hover {
     color :mediumturquoise;
     text-shadow: 5px 5px 8px brown;
-    border: 2em;
-
+    filter: blur(1);
+    border: 2px solid 'wheat';
+    padding: 2px;
 }
 
 .direction:hover {
