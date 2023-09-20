@@ -41,10 +41,26 @@ table {
     margin : 5px;
     padding:  2em 1em ;
     text-align: left;
-    color:coral;   
+    color:black;   
   }
 
   tr:nth-child(odd) {background-color: orange;}
 
   
- 
+  ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+  
+  }
+  
+  ul.navbar-horizontal li {
+    float:left;/* line up horizontally */
+    color:blanchedalmond;
+    background-color:green;
+  }
+  
+  ul.navbar-horizontal a {
+    display:flexbox;
+    padding:5px
+  }
